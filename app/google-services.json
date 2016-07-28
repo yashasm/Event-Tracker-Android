@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "160233286220",
+    "firebase_url": "https://party-tracker-45b40.firebaseio.com",
+    "project_id": "party-tracker-45b40",
+    "storage_bucket": "party-tracker-45b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160233286220:android:049bc141901a3642",
+        "android_client_info": {
+          "package_name": "com.yash.eventtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160233286220-krh2dtrjpsa1vqtfdcndc1q2oqenob0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC-3wi5Bru00v2bjRWim_I34eDQJ7PYsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
