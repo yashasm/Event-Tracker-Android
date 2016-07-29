@@ -4,4 +4,7 @@
     <color name="colorPrimaryDark">#FF6F00</color>
     <color name="colorAccent">#388E3C</color>
     <color name="colorWhite">#FFF</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
 </resources>
